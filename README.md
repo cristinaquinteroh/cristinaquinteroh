@@ -7,7 +7,7 @@ Administradora de Empresas y Tecnóloga en Sistemas, en transición profesional 
 
 ## 🚀 Proyectos destacados
 
-### 1. Urban Grocers — Pruebas de API
+### 1. Urban Routes — Pruebas de API
 
 [Ver repositorio](https://github.com/cristinaquinteroh/api_stand_tests/tree/master)
 
